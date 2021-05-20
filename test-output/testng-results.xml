@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24069" started-at="2021-05-20T11:36:06Z" finished-at="2021-05-20T11:36:30Z">
+    <groups>
+    </groups>
+    <test name="demoshop24 test scenarios" duration-ms="24069" started-at="2021-05-20T11:36:06Z" finished-at="2021-05-20T11:36:30Z">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:tests.Tests@8dbdac1]" name="setUp" is-config="true" duration-ms="6516" started-at="2021-05-20T13:36:06Z" finished-at="2021-05-20T13:36:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogin()[pri:1, instance:tests.Tests@8dbdac1]" name="validateLogin" duration-ms="16032" started-at="2021-05-20T13:36:12Z" finished-at="2021-05-20T13:36:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.Tests@8dbdac1]" name="tearDown" is-config="true" duration-ms="1483" started-at="2021-05-20T13:36:29Z" finished-at="2021-05-20T13:36:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- demoshop24 test scenarios -->
+  </suite> <!-- Suite -->
+</testng-results>

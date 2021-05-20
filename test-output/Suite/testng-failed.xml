@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="utilis.TestListener"/>
+  </listeners>
+  <test name="demoshop24 test scenarios(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="tests.Tests">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="validateLogin"/>
+        </methods>
+      </class> <!-- tests.Tests -->
+    </classes>
+  </test> <!-- demoshop24 test scenarios(failed) -->
+</suite> <!-- Failed suite [Suite] -->
