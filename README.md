@@ -25,3 +25,10 @@ Named parameters - can be simulated in Java using static factory methods.
 -----------------------------
 ![image](https://user-images.githubusercontent.com/20645322/118985331-a595ae00-b97e-11eb-90cd-e4d344163411.png)
 
+**Locators and URL and user credentials**
+------------------------------------------
+
+i would like to clear for you that i've used properties file to store all the user crendetials and URL, plus i added all the selectors in this file as same as below figure
+
+![image](https://user-images.githubusercontent.com/20645322/119003056-b699eb80-b98d-11eb-869f-bacc613d7b50.png)
+
