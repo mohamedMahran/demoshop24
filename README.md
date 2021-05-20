@@ -23,10 +23,10 @@ Named parameters - can be simulated in Java using static factory methods.
 
 **Project Hirerachy**
 -----------------------------
-->scr/main/java 
-   -> core
-   -> Pages
-   -> utilis
+-> scr/main/java 
+      -> core
+      -> Pages
+      -> utilis
    
  -> src/test/java
    -> tests
