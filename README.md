@@ -32,6 +32,8 @@ i would like to clear for you that i've used properties file to store all the us
 
 ![image](https://user-images.githubusercontent.com/20645322/119003056-b699eb80-b98d-11eb-869f-bacc613d7b50.png)
 
+Also, i used the xpath and CSS locators strategy to define our selectors. Mainly i used the relative xpath to define most locators to show you how could you catch the locators using xpath and CSS as well  
+
 ** How we can read the selectors and define them **
 -------------------------------------------------------
 we can read our selectors from the data.propertis file using fileInput stream functions,  
