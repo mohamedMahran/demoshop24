@@ -23,5 +23,5 @@ Named parameters - can be simulated in Java using static factory methods.
 
 **Project Hirerachy**
 -----------------------------
-![image](https://user-images.githubusercontent.com/20645322/118985053-68c9b700-b97e-11eb-89e2-afd0cd4ec7d5.png)
+![image](https://user-images.githubusercontent.com/20645322/118985331-a595ae00-b97e-11eb-90cd-e4d344163411.png)
 
