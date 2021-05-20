@@ -48,8 +48,8 @@ This functions are already exist in helper class
 
 from the TestNG file, you can run the Tests.Java, Just right click and run the testNG. 
 I've added the 3 scenarios as a test methods in one file for easy reading and easy tracking with the same name of the requested scenarios as same as following figure
+Also you can change the browser from the testng.xml if you want to run on different browsers 
 
 ![image](https://user-images.githubusercontent.com/20645322/119004929-4724fb80-b98f-11eb-8969-b19446bd0ad6.png)
-
-Also you can change the browser from the testng.xml if you want to run on different browsers  
-
+ 
+Finally this project is a maven project
