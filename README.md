@@ -34,9 +34,10 @@ i would like to clear for you that i've used properties file to store all the us
 
 ** How we can read the selectors and define them **
 -------------------------------------------------------
-we can read our selectors from the data.propertis file using fileInput stream functions, this functions are already exist in helper class 
-
+we can read our selectors from the data.propertis file using fileInput stream functions,  
 ![image](https://user-images.githubusercontent.com/20645322/119003564-1c867300-b98e-11eb-94ac-38977e17760d.png)
+This functions are already exist in helper class
+![image](https://user-images.githubusercontent.com/20645322/119004000-77b86580-b98e-11eb-8cb4-3324a8c21a8c.png)
 
 
 
