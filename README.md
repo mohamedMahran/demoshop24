@@ -23,14 +23,5 @@ Named parameters - can be simulated in Java using static factory methods.
 
 **Project Hirerachy**
 -----------------------------
--> scr/main/java 
-      -> core
-      -> Pages
-      -> utilis
-   
- -> src/test/java
-   -> tests
-      -> BaseTests 
-      -> Tests
-![A test image](https://user-images.githubusercontent.com/20645322/118984353-b5f95900-b97d-11eb-9ab9-e55ed08e9e98.png)
+![Project Hirerachy](https://user-images.githubusercontent.com/20645322/118984353-b5f95900-b97d-11eb-9ab9-e55ed08e9e98.png)
 
